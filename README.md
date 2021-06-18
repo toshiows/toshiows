@@ -3,7 +3,7 @@
 
 #### Olá! Me chamo Toshio 👋,
 
-Atualmente trabalho como QA, estudando para ter uma Full Stack de desenvolvimento.
+Atualmente trabalho como dev, estudando para ter uma Full Stack de desenvolvimento.
 
 Formado em Ciência da computação, buscando cada vez mais novos conhecimentos 🤓.
 
