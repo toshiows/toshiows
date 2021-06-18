@@ -7,7 +7,7 @@ Atualmente trabalho como dev, estudando para ter uma Full Stack de desenvolvimen
 
 Formado em Ciência da computação, buscando cada vez mais novos conhecimentos 🤓.
 
-Stack
+Stack:
 - Java
 - Docker
 - Angular
